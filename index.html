@@ -1,0 +1,43 @@
+---
+layout: default
+title: Accueil
+---
+<h1>Bienvenue chez {{site.title}}</h1>
+<p>Métal-Périgord négoce d'Acier et de Quincaillerie depuis plus de 25ans déjà...
+</p>
+<center><img src="/public/banniere.gif" title="bannière" alt="bannière" /><br />
+Nous assurons nos livraisons sur toute l'Aquitaine et les départements limitrophes.
+</center>
+<h2>Nos produits</h2>
+<div class="container">
+  <div class="col-6 col-sm-6 col-md-4 col-lg-3" >
+    <h3><img src="/public/icone tube.jpg" title="Tubes" alt="Tubes" />Tubes</h3>
+    <p>Tubes canalisations: Tubes gaz soudés, Tubes gaz sans soudure, Tubes sans soudure.</p>
+    <p>Tubes serrurerie &amp; construction soudés: Tubes carrés, rectangulaires et ronds</p>
+  </div>
+  <div class="col-6 col-sm-6 col-md-4 col-lg-3" >
+    <h3><img src="/public/icone plats logo.jpg" />Plats</h3>
+    <p>Epaisseur de 3 à 50mm, largeur de 10 à 300mm</p></div>
+<div class="col-6 col-sm-6 col-md-4 col-lg-3"  >
+  <h3><img src="/public/iconetoleslogo.jpg" />Tôles</h3>
+  <p>Galvanisées, Laminées à chaud, Plaques, Larmées, Striées</p></div>
+<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/iconecornieres.jpg" /><br /> Laminés</div>
+<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone-poutrelle2.jpg" /><br /> Poutrelles</div>
+<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone uac.jpg" /><br /> Les profilés à froid</div>
+<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone-fer-beton2.jpg" /><br />Fers à béton</div>
+<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone metal deploye.jpg" /><br />Métal Déployé</div>
+</div>
+
+<h2>Dernières nouvelles</h2>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
