@@ -10,7 +10,7 @@ order: 2
 {{ adress }} <br>
 {% endfor %}
 
-<img src="/public/tel.svg" width=32 class="icon" title="Téléphone" alt="Téléphone" />&nbsp;{{site.phone}}<br>
-<img src="/public/fax.png" width=32 class="icon" title="Télécopie" alt="Télécopie" />&nbsp;{{site.fax}}<br>
+<img src="/public/tel.svg" width="32" class="icon" title="Téléphone" alt="Téléphone" />&nbsp;{{site.phone}}<br>
+<img src="/public/fax.png" width="32" class="icon" title="Télécopie" alt="Télécopie" />&nbsp;{{site.fax}}<br>
 
 </p>
