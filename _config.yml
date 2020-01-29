@@ -1,0 +1,23 @@
+# Setup
+title:            Métal-Périgord
+description:      "Métal-Périgord négoce d'Acier et de Quincaillerie depuis plus de 15ans déjà..."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+twitter_username: jekyllrb
+github_username:  jekyll
+
+paginate: 5
+address:
+    - "Impasse Jean Macé"
+    - "24 100 Bergerac"
+phone: "05 53 24 59 05"
+fax:   "05 53 58 36 58"
+
+googlemap: "https://goo.gl/maps/CJFrcyQGjrF5aw598"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
