@@ -5,7 +5,7 @@ order: 2
 ---
 
 <p>
-<a href="{{site.googlemap}}" >Plan&nbsp;<img class="icon" src="/public/maps.png" alt="maps" title="adresse" width=30/></a><br>
+<a href="{{site.googlemap}}" >Plan&nbsp;<img class="icon" src="/public/maps.png" alt="maps" title="adresse" width="30"/></a><br>
 {% for adress in site.address %}
 {{ adress }} <br>
 {% endfor %}
