@@ -1,3 +1,8 @@
 ---
 ---
+$brand-primary: gray;
+$pink: #FE2725;
 @import "bootstrap";
+h2 {color: $pink}
+h3 {color: $gray}
+.navbar-default .navbar-nav > .active > a {color: $pink}
