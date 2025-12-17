@@ -2,42 +2,192 @@
 layout: default
 title: Accueil
 ---
-<h1>Bienvenue chez {{site.title}}</h1>
-<p>Métal-Périgord négoce d'Acier et de Quincaillerie depuis plus de 25ans déjà...
-</p>
-<center><img src="/public/banniere.gif" title="bannière" alt="bannière" /><br />
-Nous assurons nos livraisons sur toute l'Aquitaine et les départements limitrophes.
-</center>
-<h2>Nos produits</h2>
-<div class="container">
-  <div class="col-6 col-sm-6 col-md-4 col-lg-3" >
-    <h3><img src="/public/icone tube.jpg" title="Tubes" alt="Tubes" />Tubes</h3>
-    <p>Tubes canalisations: Tubes gaz soudés, Tubes gaz sans soudure, Tubes sans soudure.</p>
-    <p>Tubes serrurerie &amp; construction soudés: Tubes carrés, rectangulaires et ronds</p>
-  </div>
-  <div class="col-6 col-sm-6 col-md-4 col-lg-3" >
-    <h3><img src="/public/icone plats logo.jpg" />Plats</h3>
-    <p>Epaisseur de 3 à 50mm, largeur de 10 à 300mm</p></div>
-<div class="col-6 col-sm-6 col-md-4 col-lg-3"  >
-  <h3><img src="/public/iconetoleslogo.jpg" />Tôles</h3>
-  <p>Galvanisées, Laminées à chaud, Plaques, Larmées, Striées</p></div>
-<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/iconecornieres.jpg" /><br /> Laminés</div>
-<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone-poutrelle2.jpg" /><br /> Poutrelles</div>
-<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone uac.jpg" /><br /> Les profilés à froid</div>
-<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone-fer-beton2.jpg" /><br />Fers à béton</div>
-<div class="col-6 col-sm-6 col-md-4 col-lg-3"  ><img src="/public/icone metal deploye.jpg" /><br />Métal Déployé</div>
-</div>
 
-<h2>Dernières nouvelles</h2>
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h2 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    {{ post.content }}
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">Votre Partenaire Acier de Confiance depuis 1992</h1>
+    <p class="hero-subtitle">Plus de 30 ans d'expertise au service de vos projets.<br>
+    2000 tonnes de stock, livraison rapide dans toute l'Aquitaine.</p>
+    <div class="hero-cta">
+      <a href="/contact.html" class="btn btn-primary btn-lg">Demander un Devis</a>
+      <a href="/produit.html" class="btn btn-secondary btn-lg">Nos Produits</a>
+    </div>
   </div>
-  {% endfor %}
-</div>
+  <div class="hero-stats">
+    <div class="stat-item">
+      <div class="stat-number">30+</div>
+      <div class="stat-label">Années d'expérience</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">2000</div>
+      <div class="stat-label">Tonnes en stock</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">4</div>
+      <div class="stat-label">Camions de livraison</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">20</div>
+      <div class="stat-label">Professionnels dédiés</div>
+    </div>
+  </div>
+</section>
+
+<!-- Value Propositions -->
+<section class="value-props">
+  <h2 class="section-title">Pourquoi Choisir Métal Périgord ?</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="value-card">
+        <div class="value-icon">⚡</div>
+        <h3>Réactivité</h3>
+        <p>Stock permanent de 2000 tonnes. Livraison express sur l'Aquitaine avec notre flotte de 4 camions dédiés.</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="value-card">
+        <div class="value-icon">🎓</div>
+        <h3>Expertise</h3>
+        <p>Plus de 30 ans d'expérience indépendante. Conseils techniques personnalisés pour chaque projet.</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="value-card">
+        <div class="value-icon">📦</div>
+        <h3>Gamme Complète</h3>
+        <p>Du tube de canalisation aux poutrelles IPN. Toutes les solutions acier et quincaillerie sous un même toit.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Products Showcase -->
+<section class="products-section">
+  <h2 class="section-title">Notre Gamme de Produits</h2>
+  <div class="row products-grid">
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/icone tube.jpg" title="Tubes" alt="Tubes" class="product-icon" />
+        <h3>Tubes & Canalisations</h3>
+        <p>Tubes gaz soudés et sans soudure, tubes serrurerie carrés, rectangulaires et ronds.</p>
+        <p class="product-use">Pour construction, plomberie, serrurerie</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/iconetoleslogo.jpg" alt="Tôles" class="product-icon" />
+        <h3>Tôles & Plaques</h3>
+        <p>Galvanisées, laminées à chaud, plaques, larmées, striées.</p>
+        <p class="product-use">Tous formats disponibles</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/icone plats logo.jpg" alt="Plats" class="product-icon" />
+        <h3>Plats & Profilés</h3>
+        <p>Épaisseurs de 3 à 50mm, largeurs de 10 à 300mm.</p>
+        <p class="product-use">Solutions pour charpente</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/icone-poutrelle2.jpg" alt="Poutrelles" class="product-icon" />
+        <h3>Poutrelles</h3>
+        <p>IPN, IPE, UPN pour tous vos besoins structurels.</p>
+        <p class="product-use">Éléments certifiés</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/iconecornieres.jpg" alt="Laminés" class="product-icon" />
+        <h3>Laminés</h3>
+        <p>Cornières, fers plats, toute gamme de laminés marchands.</p>
+        <p class="product-use">Pour assemblages</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/icone uac.jpg" alt="Profilés à froid" class="product-icon" />
+        <h3>Profilés à Froid</h3>
+        <p>UAC et profilés spéciaux pour applications spécifiques.</p>
+        <p class="product-use">Sur mesure possible</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/icone-fer-beton2.jpg" alt="Fers à béton" class="product-icon" />
+        <h3>Fers à Béton</h3>
+        <p>Armatures haute adhérence pour tous travaux de maçonnerie.</p>
+        <p class="product-use">Normes CE</p>
+      </div>
+    </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="product-card">
+        <img src="/public/icone metal deploye.jpg" alt="Métal déployé" class="product-icon" />
+        <h3>Métal Déployé</h3>
+        <p>Treillis soudés et métal déployé pour renforcement.</p>
+        <p class="product-use">Multi-usages</p>
+      </div>
+    </div>
+  </div>
+  <div class="text-center product-cta">
+    <p class="lead">Cette liste n'est pas exhaustive. Contactez-nous pour tout besoin spécifique!</p>
+    <a href="/produit.html" class="btn btn-primary">Voir Tous Nos Produits</a>
+  </div>
+</section>
+
+<!-- Delivery Zone -->
+<section class="delivery-section">
+  <div class="row align-items-center">
+    <div class="col-md-6">
+      <h2>Livraison Rapide dans Toute l'Aquitaine</h2>
+      <p class="lead">Notre flotte de 4 camions assure vos approvisionnements dans toute l'Aquitaine et les départements limitrophes.</p>
+      <ul class="delivery-features">
+        <li>✓ Livraison express disponible</li>
+        <li>✓ Suivi de commande en temps réel</li>
+        <li>✓ Équipe de chauffeurs professionnels</li>
+        <li>✓ Manutention sécurisée de vos produits</li>
+      </ul>
+      <a href="/contact.html" class="btn btn-primary">Demander une Livraison</a>
+    </div>
+    <div class="col-md-6">
+      <div class="delivery-map">
+        <p><strong>Zone de couverture :</strong> Dordogne, Gironde, Lot-et-Garonne, et départements limitrophes</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- News Section -->
+<section class="news-section">
+  <h2 class="section-title">Actualités & Nouveautés</h2>
+  <div class="posts">
+    {% for post in paginator.posts %}
+    <div class="post-card">
+      <h3 class="post-title">
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h3>
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+  <div class="cta-content">
+    <h2>Prêt à Démarrer Votre Projet ?</h2>
+    <p class="lead">Notre équipe d'experts est à votre disposition pour vous conseiller et établir un devis personnalisé.</p>
+    <div class="cta-buttons">
+      <a href="tel:0553245905" class="btn btn-light btn-lg">
+        <span class="btn-icon">📞</span> 05 53 24 59 05
+      </a>
+      <a href="/contact.html" class="btn btn-primary btn-lg">Demander un Devis</a>
+    </div>
+  </div>
+</section>
