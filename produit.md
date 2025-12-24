@@ -19,31 +19,30 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 - Tubes acier pour canalisation
 - Diamètres de 1/4" à 8"
 
-**Tubes Serrurerie & Construction**
-- Tubes carrés : 10x10 à 200x200mm
+**Tubes Serrurerie & Construction (Noir, DKP, Sendzimir)**
+- Tubes carrés : 16x16 à 200x200mm
 - Tubes rectangulaires : dimensions variées
-- Tubes ronds : Ø10 à Ø200mm
+- Tubes ronds : Ø16 à Ø200mm
 - Épaisseurs de 1 à 12mm
 
-**Applications** : Construction métallique, serrurerie, plomberie, mobilier, barrières, portails, structures légères.
+**Applications** : Construction métallique, serrurerie, plomberie, mobilier, portails, stadier, façadier, chaudronnerie, structures légères...
 
 ---
 
 ### 🔹 Tôles & Plaques
 
-**Tôles Galvanisées**
+**Tôles Galvanisées et électrozinguées**
 - Épaisseurs : 0.5 à 4mm
 - Protection anticorrosion optimale
 - Usage extérieur et intérieur
 
 **Tôles Laminées à Chaud**
-- Épaisseurs : 2 à 100mm
+- Épaisseurs : 2 à 50mm
 - Formats standards et sur mesure
-- Qualités S235, S355
+- Qualités S235, S355, S500, HB400
 
 **Tôles Spéciales**
 - Tôles larmées antidérapantes
-- Tôles striées pour sols industriels
 - Plaques épaisses pour usinage
 
 **Applications** : Couverture, bardage, sols industriels, plateaux, supports de machines, cuves, réservoirs.
@@ -56,12 +55,7 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 - Épaisseurs : 3 à 50mm
 - Largeurs : 10 à 300mm
 - Longueurs standards 6m ou sur mesure
-- Découpe possible selon vos plans
-
-**Profilés Plats**
-- Grande variété de sections
-- Acier doux ou haute résistance
-- Finitions brutes ou usinées
+- Découpe possible selon vos plans (avec délai et quantité minimale)
 
 **Applications** : Charpente, serrurerie, renforcement, équerres, supports, assemblages mécaniques.
 
@@ -71,7 +65,7 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 
 **IPN (Poutrelles à ailes inclinées)**
 - De IPN 80 à IPN 400
-- Longueurs 6 à 12m
+- Longueurs 6, 12, 15m (autre sur demande)
 
 **IPE (Poutrelles européennes)**
 - De IPE 80 à IPE 600
@@ -96,45 +90,30 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 - Épaisseurs variées
 
 **Fers Ronds & Carrés**
-- Fers ronds lisses : Ø6 à Ø100mm
+- Fers ronds lisses : Ø6 à Ø60mm
 - Fers carrés : 8x8 à 50x50mm
 
 **Fers Plats**
 - Épaisseurs : 3 à 30mm
-- Largeurs : 10 à 150mm
+- Largeurs : 10 à 300mm
+
+**UAC**
+- de 30 à 70mm
 
 **Fers en T et autres profils**
-- Gamme complète disponible
+- Gamme complète disponible de 15 à 100mm
 
 **Applications** : Assemblages, fixations, cadres, supports, équerres, renforts, serrurerie.
 
 ---
 
-### 🔹 Profilés à Froid (UAC)
+### 🔹 Profilés à Froid
 
-**Profilés U, C et Omega**
+**Profilés U, C, cornière, main courrante de pont**
 - Épaisseurs : 1.5 à 5mm
 - Multiples hauteurs d'âme
-- Légers et économiques
 
 **Applications** : Ossatures métalliques légères, chemins de câbles, supports, bardages, agencements.
-
----
-
-### 🔹 Fers à Béton & Armatures
-
-**Fers à Béton Haute Adhérence**
-- Diamètres : Ø6 à Ø40mm
-- Qualité B500B conforme aux normes
-- Longueurs 6m ou 12m
-- Façonnage possible
-
-**Treillis Soudés**
-- Mailles et diamètres variés
-- Panneaux standards
-- Gain de temps de pose
-
-**Applications** : Armatures béton, dalles, poteaux, poutres, fondations, murs, tous ouvrages en béton armé.
 
 ---
 
@@ -153,27 +132,16 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 
 ---
 
-### 🔹 Quincaillerie & Fixations
-
-**Large gamme disponible**
-- Boulonnerie : vis, écrous, rondelles
-- Rivets et fixations spéciales
-- Ancrages chimiques et mécaniques
-- Chaînes, câbles, accessoires levage
-- Électrodes de soudure
-
----
-
 ## Services Associés
 
 ### ✓ Découpe & Préparation
-Nous pouvons découper vos produits aux dimensions exactes de vos plans : découpe plasma, oxycoupage, tronçonnage.
+Nous pouvons proposer vos produits aux dimensions exactes de vos plans : découpe plasma, oxycoupage, tronçonnage (avec délai et quantité minimale).
 
 ### ✓ Conseil Technique
 Nos experts vous aident à choisir les bons produits selon vos contraintes techniques et budgétaires.
 
 ### ✓ Livraison Rapide
-Flotte de 4 camions équipés pour livraisons express sur toute l'Aquitaine.
+Flotte de 4 camions équipés pour livraisons sur toute l'Aquitaine.
 
 ### ✓ Stocks Permanents
 2000 tonnes en stock pour une disponibilité immédiate, sans attente.

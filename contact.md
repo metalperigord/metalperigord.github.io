@@ -58,29 +58,22 @@ Une question sur un produit ? Besoin d'un devis ? Notre équipe vous répond rap
 
 Notre flotte de **4 camions équipés** assure vos livraisons sur :
 
-- **Dordogne (24)** - Livraison express disponible
-- **Gironde (33)** - Service quotidien
-- **Lot-et-Garonne (47)** - Livraison régulière
+- **Dordogne (24)** - Livraison express sur demande
+- **Gironde (33) et Lot-et-Garonne (47)** - Livraison régulière
 - **Départements limitrophes** - Nous consulter
-
-### Services de Livraison
-
-✓ **Livraison express** : Commandez le matin, recevez l'après-midi (rayon 50km)
-✓ **Suivi en temps réel** : Vous savez où en est votre livraison
-✓ **Manutention professionnelle** : Déchargement sécurisé sur votre chantier
-✓ **Chauffeurs expérimentés** : Accès aux sites difficiles
 
 ---
 
 ## Demande de Devis
 
-Pour recevoir un devis personnalisé, contactez-nous par téléphone au **05 53 24 59 05** ou rendez-vous directement à notre dépôt avec vos plans.
+Pour recevoir un devis personnalisé, contactez-nous par téléphone au **05 53 24 59 05** ou par email **contact@metalperigord.fr**.
 
 **Informations à nous communiquer pour un devis rapide :**
 - Nature des produits (tubes, tôles, poutrelles, etc.)
 - Dimensions et épaisseurs souhaitées
 - Quantités nécessaires
-- Adresse de livraison
+- Adresse et accès du point de livraison
+- Matériel de manutention disponible pour le déchargement
 - Délai souhaité
 
 Notre équipe commerciale vous répondra dans les plus brefs délais avec une offre adaptée à vos besoins.
@@ -113,6 +106,8 @@ Notre équipe commerciale vous répondra dans les plus brefs délais avec une of
   <div>
     <h3>✅ Qualité Garantie</h3>
     <p>Produits certifiés conformes aux normes européennes.</p>
+    <p>Suivi du RSE</p>
+    <p>Possibilité de produit à la norme MACF</p>
   </div>
 
   <div>
@@ -127,7 +122,6 @@ Notre équipe commerciale vous répondra dans les plus brefs délais avec une of
   <h2>Prêt à Commander ?</h2>
   <p class="lead">Appelez-nous maintenant ou passez nous voir à notre dépôt de Bergerac.</p>
   <a href="tel:0553245905" class="btn btn-primary btn-lg">📞 05 53 24 59 05</a>
-  <p class="small-text">Du lundi au vendredi, 8h-12h / 14h-18h</p>
 </div>
 
 ---
