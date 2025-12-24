@@ -159,25 +159,6 @@ title: Accueil
   </div>
 </section>
 
-<!-- News Section -->
-<section class="news-section">
-  <h2 class="section-title">Actualités & Nouveautés</h2>
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-card">
-      <h3 class="post-title">
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h3>
-      <div class="post-content">
-        {{ post.content }}
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
 <!-- CTA Section -->
 <section class="cta-section">
   <div class="cta-content">
