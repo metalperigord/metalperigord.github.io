@@ -666,3 +666,143 @@ img {
   display: block;
   margin: 0 auto 2rem;
 }
+
+// Catalogue Page Styles
+.catalogue-index {
+  background: $light-gray;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+
+  h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: $primary-red;
+  }
+}
+
+.index-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+  justify-content: center;
+}
+
+.index-item {
+  background: $white;
+  padding: 1rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  color: $gray;
+  border: 2px solid #e0e0e0;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  flex: 0 0 200px;
+  white-space: nowrap;
+
+  &:hover {
+    background: $primary-red;
+    color: $white;
+    border-color: $primary-red;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-decoration: none;
+  }
+}
+
+.product-section {
+  margin: 3rem 0;
+  scroll-margin-top: 100px;
+
+  h2 {
+    color: $primary-red;
+    border-bottom: 3px solid $primary-red;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+  }
+
+  h3 {
+    color: $gray;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+table.product-table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  background: $white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  font-size: 16px;
+  border: 1px solid #d0d0d0;
+
+  th {
+    background: $primary-red;
+    color: $white;
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+    border: 1px solid darken($primary-red, 5%);
+  }
+
+  td {
+    padding: 10px 12px;
+    border: 1px solid #e0e0e0;
+  }
+
+  tbody tr:nth-child(odd) {
+    background: $white;
+  }
+
+  tbody tr:nth-child(even) {
+    background: #f9f9f9;
+  }
+
+  tbody tr:hover {
+    background: #f0f0f0;
+  }
+}
+
+// Back to top button
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: $primary-red;
+  color: $white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+  z-index: 1000;
+
+  &:hover {
+    background: darken($primary-red, 10%);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+    color: $white;
+    text-decoration: none;
+  }
+
+  @media (max-width: 768px) {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
