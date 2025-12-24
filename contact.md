@@ -17,7 +17,8 @@ Une question sur un produit ? Besoin d'un devis ? Notre équipe vous répond rap
     <p><strong><a href="tel:0553245905" class="phone-number">05 53 24 59 05</a></strong></p>
     <p><strong>Horaires d'ouverture :</strong></p>
     <ul>
-      <li>Lundi au Vendredi : 8h00 - 12h00 / 14h00 - 18h00</li>
+      <li>Lundi au Jeudi: 8h00 - 12h00 / 13h00 - 17h00</li>
+      <li>Vendredi: 8h00 - 12h00 / 13h00 - 16h00</li>
       <li>Samedi : Fermé</li>
       <li>Dimanche : Fermé</li>
     </ul>
@@ -32,8 +33,8 @@ Une question sur un produit ? Besoin d'un devis ? Notre équipe vous répond rap
     <hr>
 
     <h3>📧 Email</h3>
-    <p><strong>contact@metal-perigord.fr</strong> <em>(à vérifier)</em></p>
-    <p>Réponse sous 24h ouvrées maximum.</p>
+    <p><strong>contact@metalperigord.fr</strong></p>
+    <p>Réponse rapide.</p>
 
     <hr>
 
