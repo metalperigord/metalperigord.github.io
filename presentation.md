@@ -74,6 +74,16 @@ Artisans, PME du bâtiment, entreprises de charpente métallique, industries, co
 
 ---
 
+## Ils Parlent de Nous
+
+En juin 2021, le magazine **Capital Nouvelle Aquitaine** a consacré un article à Métal Périgord, mettant en lumière notre réactivité pendant la crise du Covid-19 et notre croissance constante depuis 30 ans.
+
+**[📄 Télécharger l'article Capital (PDF)](/public/METAL PERIGORD - CAPITAL NOUVELLE AQUITAINE.pdf)**
+
+*"La relation de proximité que nous entretenons avec nos clients s'est davantage accentuée avec la crise du Covid-19"* - Éric Sieuzac, fondateur
+
+---
+
 <div class="cta-box">
   <h3>Prêt à Travailler Ensemble ?</h3>
   <p>Contactez-nous pour discuter de votre projet et obtenir un devis personnalisé.</p>
