@@ -691,7 +691,7 @@ img {
 
 .index-item {
   background: $white;
-  padding: 1rem 1.5rem;
+  padding: 1rem;
   text-align: center;
   text-decoration: none;
   color: $gray;
@@ -699,18 +699,19 @@ img {
   border-radius: 6px;
   transition: all 0.3s ease;
   font-weight: 600;
-  flex: 0 0 200px;
-  white-space: nowrap;
+  flex: 0 0 120px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
 
   .cat-icon {
-    width: 30px;
-    height: 30px;
+    width: 48px;
+    height: 48px;
     object-fit: cover;
     border-radius: 4px;
+    order: 1;
   }
 
   &:hover {
