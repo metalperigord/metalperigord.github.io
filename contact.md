@@ -26,12 +26,6 @@ Une question sur un produit ? Besoin d'un devis ? Notre équipe vous répond rap
 
     <hr>
 
-    <h3>📠 Fax</h3>
-    <p><strong>05 53 58 36 58</strong></p>
-    <p>Pour nous transmettre vos plans et commandes.</p>
-
-    <hr>
-
     <h3>📧 Email</h3>
     <p><strong>contact@metalperigord.fr</strong></p>
     <p>Réponse rapide.</p>

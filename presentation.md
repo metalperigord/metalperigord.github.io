@@ -21,7 +21,7 @@ Notre stock permanent nous permet de vous livrer rapidement, sans délai d'atten
 
 **4 camions de livraison** équipés et une équipe de chauffeurs professionnels pour assurer vos approvisionnements sur toute l'Aquitaine et les départements limitrophes.
 
-Notre service logistique intégré garantit des livraisons rapides et sécurisées. Commandez le matin, recevez l'après-midi dans un rayon de 50km.
+Notre service logistique intégré garantit des livraisons rapides et sécurisées.
 
 ### ✓ PROXIMITÉ
 

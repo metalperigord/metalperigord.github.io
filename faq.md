@@ -50,20 +50,11 @@ Nous livrons principalement sur :
 - Lot-et-Garonne (47) - service régulier
 - Départements limitrophes - nous consulter
 
-**Quels sont vos délais de livraison ?**
-
-Pour les produits en stock (2000 tonnes disponibles) :
-- **Livraison express** : le jour même ou lendemain dans un rayon de 50km
-- **Livraison standard** : 24-48h selon destination
-- Commandez le matin, recevez l'après-midi (sous conditions)
-
 **Comment se passe la livraison ?**
 
 Notre flotte de 4 camions équipés assure des livraisons professionnelles avec :
 - Chauffeurs expérimentés
-- Déchargement sécurisé sur votre chantier
 - Manutention professionnelle
-- Accès aux sites difficiles
 
 **Puis-je venir récupérer ma commande ?**
 
@@ -78,7 +69,6 @@ Oui ! Vous pouvez retirer vos produits directement à notre dépôt de Bergerac.
 Plusieurs options :
 1. **Par téléphone** : 05 53 24 59 05
 2. **En personne** : Venez à notre dépôt avec vos plans
-3. **Par fax** : 05 53 58 36 58 (envoyez vos plans)
 
 Nous vous répondons rapidement avec une offre détaillée.
 
@@ -103,21 +93,11 @@ Notre indépendance nous permet de proposer des tarifs très compétitifs par ra
 
 ### 🔧 Services
 
-**Proposez-vous la découpe sur mesure ?**
-
-Oui, nous pouvons découper vos produits selon vos plans et dimensions exactes :
-- Découpe plasma
-- Oxycoupage
-- Tronçonnage
-- Façonnage fers à béton
-
 **Offrez-vous des conseils techniques ?**
 
-Absolument ! Notre équipe de 20 professionnels est à votre disposition pour :
+Absolument ! Notre équipe de professionnels est à votre disposition pour :
 - Vous conseiller sur le choix des produits
-- Calculer les quantités nécessaires
 - Vous aider à optimiser vos coûts
-- Résoudre vos problématiques techniques
 
 **Livrez-vous les certificats de conformité ?**
 
@@ -135,9 +115,8 @@ Oui, tous nos produits sont certifiés conformes aux normes européennes. Nous f
 **Comment vous contacter ?**
 
 - **Téléphone** : 05 53 24 59 05
-- **Fax** : 05 53 58 36 58
 - **Adresse** : Impasse Jean Macé, 24100 Bergerac
-- **Email** : contact@metal-perigord.fr *(à vérifier)*
+- **Email** : contact@metalperigord.fr
 
 **Puis-je visiter votre site de stockage ?**
 

@@ -55,7 +55,6 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 - Épaisseurs : 3 à 50mm
 - Largeurs : 10 à 300mm
 - Longueurs standards 6m ou sur mesure
-- Découpe possible selon vos plans (avec délai et quantité minimale)
 
 **Applications** : Charpente, serrurerie, renforcement, équerres, supports, assemblages mécaniques.
 
@@ -134,9 +133,6 @@ Que vous soyez artisan, entreprise du bâtiment, charpentier métallique ou indu
 
 ## Services Associés
 
-### ✓ Découpe & Préparation
-Nous pouvons proposer vos produits aux dimensions exactes de vos plans : découpe plasma, oxycoupage, tronçonnage (avec délai et quantité minimale).
-
 ### ✓ Conseil Technique
 Nos experts vous aident à choisir les bons produits selon vos contraintes techniques et budgétaires.
 
@@ -168,6 +164,5 @@ Nous disposons d'une gamme bien plus large que celle présentée ici. **Produit 
 ✓ **Tarifs compétitifs** - Indépendance = meilleurs prix
 ✓ **Livraison rapide** - Service express disponible
 ✓ **Conseil expert** - 30 ans d'expérience à votre service
-✓ **Flexibilité** - Découpe et préparation sur mesure
 
 **Faites le choix de la qualité et de la réactivité. Faites le choix Métal Périgord.**
