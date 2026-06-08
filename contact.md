@@ -137,11 +137,8 @@ Notre équipe commerciale vous répondra dans les plus brefs délais avec une of
 
 ## Questions Fréquentes
 
-**Proposez-vous la découpe sur mesure ?**
-Oui, nous pouvons découper vos produits selon vos plans (découpe plasma, oxycoupage, tronçonnage).
-
 **Quels sont vos délais de livraison ?**
-Pour les produits en stock (2000 tonnes disponibles), livraison express possible le jour même ou le lendemain selon votre localisation.
+Pour les produits en stock (2000 tonnes disponibles), livraison express possible selon votre localisation.
 
 **Acceptez-vous les petites quantités ?**
 Absolument ! Du particulier bricoleur au grand chantier, tous les clients sont les bienvenus.
