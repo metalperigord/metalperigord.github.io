@@ -8,16 +8,16 @@ order: 2
 <div class="catalogue-index">
   <h2>Navigation Rapide</h2>
   <div class="index-grid">
-    <a href="#tubes" class="index-item">🔧 Tubes</a>
-    <a href="#fers-beton" class="index-item">🏗️ Fers Béton</a>
-    <a href="#lamines" class="index-item">📐 Laminés</a>
-    <a href="#toles" class="index-item">📋 Tôles</a>
-    <a href="#poutrelles" class="index-item">🏢 Poutrelles</a>
-    <a href="#profils-froid" class="index-item">❄️ Profils à Froid</a>
-    <a href="#metal-deploye" class="index-item">🔗 Métal Déployé</a>
-    <a href="#caillebotis" class="index-item">⚡ Caillebotis</a>
-    <a href="#grillages" class="index-item">🔲 Grillages</a>
-    <a href="#etire-rond" class="index-item">⭕ Étiré Rond</a>
+    <a href="#tubes" class="index-item"><img src="/public/images/catalogue/prod-009.png" alt="Tubes" class="cat-icon"> Tubes</a>
+    <a href="#fers-beton" class="index-item"><img src="/public/images/catalogue/prod-004.png" alt="Fers Béton" class="cat-icon"> Fers Béton</a>
+    <a href="#lamines" class="index-item"><img src="/public/images/catalogue/prod-003.png" alt="Laminés" class="cat-icon"> Laminés</a>
+    <a href="#toles" class="index-item"><img src="/public/images/catalogue/prod-000.png" alt="Tôles" class="cat-icon"> Tôles</a>
+    <a href="#poutrelles" class="index-item"><img src="/public/images/catalogue/prod-018.png" alt="Poutrelles" class="cat-icon"> Poutrelles</a>
+    <a href="#profils-froid" class="index-item"><img src="/public/images/catalogue/prod-020.png" alt="Profils à Froid" class="cat-icon"> Profils à Froid</a>
+    <a href="#metal-deploye" class="index-item"><img src="/public/images/catalogue/prod-060.png" alt="Métal Déployé" class="cat-icon"> Métal Déployé</a>
+    <a href="#caillebotis" class="index-item"><img src="/public/images/catalogue/prod-072.png" alt="Caillebotis" class="cat-icon"> Caillebotis</a>
+    <a href="#grillages" class="index-item"><img src="/public/images/catalogue/prod-061.png" alt="Grillages" class="cat-icon"> Grillages</a>
+    <a href="#etire-rond" class="index-item"><img src="/public/images/catalogue/prod-042.png" alt="Étiré Rond" class="cat-icon"> Étiré Rond</a>
   </div>
 </div>
 
@@ -90,68 +90,86 @@ Découvrez notre gamme complète de produits sidérurgiques. Plus de **2000 tonn
 | 160 x 160 | 8 | 36.9 |
 | 180 x 180 | 6 | 31.5 |
 | 180 x 180 | 8 | 41.9 |
-| 200 x 200 | 6 | 35.2 |
-| 200 x 200 | 8 | 46.9 |
+| 200 x 200 | 5 | 30.1 |
 {: .product-table}
 
 ### Tubes Rectangulaires Soudés
 
 | Dimensions (mm) | Épaisseur (mm) | Poids (kg/m) |
 |-----------------|----------------|--------------|
-| 30 x 20 | 2 | 1.35 |
-| 40 x 20 | 2 | 1.64 |
-| 40 x 25 | 2 | 1.79 |
-| 50 x 25 | 2 | 2.09 |
-| 50 x 30 | 2 | 2.24 |
-| 50 x 30 | 3 | 3.24 |
-| 60 x 30 | 3 | 3.83 |
-| 60 x 40 | 3 | 4.39 |
-| 60 x 40 | 4 | 5.68 |
-| 70 x 40 | 3 | 4.78 |
+| 30 x 20 | 2 | 1.42 |
+| 35 x 20 | 2 | 1.52 |
+| 40 x 20 | 2 | 1.68 |
+| 40 x 27 | 2 | 1.9 |
+| 50 x 25 | 3 | 3.07 |
+| 50 x 30 | 2 | 2.31 |
+| 50 x 30 | 3 | 3.3 |
+| 50 x 30 | 4 | 4.2 |
+| 50 x 40 | 2 | 2.62 |
+| 50 x 40 | 3 | 3.77 |
+| 50 x 40 | 4 | 4.83 |
+| 60 x 30 | 2 | 2.62 |
+| 60 x 30 | 3 | 3.77 |
+| 60 x 34 | 2 | 2.75 |
+| 60 x 40 | 2 | 3.56 |
+| 60 x 40 | 3 | 4.25 |
+| 60 x 40 | 4 | 5.45 |
+| 70 x 35 | 3 | 4.48 |
+| 70 x 40 | 3 | 4.72 |
+| 80 x 40 | 2 | 3.56 |
 | 80 x 40 | 3 | 5.19 |
-| 80 x 40 | 4 | 6.74 |
-| 80 x 60 | 3 | 6.03 |
-| 80 x 60 | 4 | 7.84 |
-| 90 x 50 | 3 | 6.03 |
-| 100 x 40 | 3 | 6.03 |
-| 100 x 50 | 3 | 6.59 |
-| 100 x 50 | 4 | 8.58 |
-| 100 x 50 | 5 | 10.5 |
-| 100 x 60 | 4 | 9.25 |
-| 100 x 60 | 5 | 11.4 |
-| 120 x 60 | 4 | 10.6 |
-| 120 x 60 | 5 | 13.1 |
-| 120 x 80 | 4 | 11.9 |
-| 120 x 80 | 5 | 14.7 |
-| 140 x 80 | 5 | 16.3 |
-| 150 x 100 | 5 | 18.8 |
-| 160 x 80 | 5 | 18 |
-| 180 x 100 | 5 | 21.1 |
-| 200 x 100 | 5 | 22.6 |
-| 200 x 100 | 6 | 26.9 |
+| 80 x 40 | 4 | 6.71 |
+| 80 x 40 | 5 | 8.13 |
+| 80 x 50 | 3 | 5.66 |
+| 80 x 50 | 5 | 8.91 |
+| 90 x 50 | 3 | 6.13 |
+| 100 x 40 | 3 | 6.13 |
+| 100 x 50 | 2 | 4.5 |
+| 100 x 50 | 3 | 6.6 |
+| 100 x 80 | 4 | 10.5 |
+| 100 x 80 | 5 | 12.8 |
+| 120 x 40 | 3 | 7.07 |
+| 120 x 50 | 3 | 7.54 |
+| 120 x 60 | 2 | 5.74 |
+| 120 x 60 | 3 | 8.01 |
+| 120 x 60 | 4 | 10.5 |
+| 120 x 60 | 5 | 12.8 |
+| 120 x 60 | 6 | 15.1 |
+| 120 x 80 | 4 | 11.7 |
+| 140 x 60 | 6 | 13 |
+| 140 x 70 | 4 | 12.73 |
+| 140 x 80 | 3 | 9.9 |
+| 140 x 80 | 4 | 13 |
+| 140 x 80 | 5 | 16.1 |
+| 150 x 50 | 3 | 8.96 |
+| 150 x 50 | 5 | 14.40 |
+| 150 x 100 | 3 | 11.3 |
+| 150 x 100 | 5 | 18.3 |
+| 160 x 80 | 3 | 10.8 |
+| 160 x 80 | 4 | 14.2 |
+| 160 x 80 | 5 | 17.5 |
+| 160 x 80 | 6 | 20.7 |
+| 180 x 80 | 3 | 11.8 |
+| 180 x 80 | 5 | 19.1 |
+| 200 x 100 | 4 | 18 |
+| 200 x 100 | 5 | 22.3 |
+| 200 x 100 | 6 | 26.4 |
 {: .product-table}
 
 ### Tubes Ronds Soudés
 
 | Diamètre (mm) | Épaisseur (mm) | Poids (kg/m) |
 |---------------|----------------|--------------|
-| 21.3 | 2 | 0.95 |
-| 26.9 | 2 | 1.25 |
+| 21.3 | 2.3 | 1.08 |
 | 26.9 | 2.3 | 1.4 |
-| 33.7 | 2 | 1.61 |
-| 33.7 | 2.9 | 2.2 |
-| 42.4 | 2 | 2.06 |
-| 42.4 | 2.6 | 2.61 |
-| 42.4 | 2.9 | 2.87 |
-| 48.3 | 2 | 2.37 |
-| 48.3 | 2.9 | 3.29 |
-| 60.3 | 2 | 3 |
-| 60.3 | 3 | 4.37 |
-| 76.1 | 2 | 3.83 |
-| 76.1 | 3 | 5.61 |
-| 88.9 | 3 | 6.58 |
-| 101.6 | 3 | 7.56 |
-| 114.3 | 3 | 8.55 |
+| 33.7 | 2.6 | 1.99 |
+| 42.4 | 2.6 | 2.57 |
+| 48.3 | 2.9 | 3.25 |
+| 60 | 2 | 2.86 |
+| 60.3 | 3 | 4.1 |
+| 76.1 | 3 | 5.24 |
+| 88.9 | 3 | 6.76 |
+| 114.3 | 3.6 | 9.83 |
 {: .product-table}
 
 ---
@@ -164,28 +182,28 @@ Découvrez notre gamme complète de produits sidérurgiques. Plus de **2000 tonn
 | Diamètre (mm) | Poids (kg/m) |
 |---------------|--------------|
 | 5 | 0.15 |
-| 6 | 0.22 |
-| 8 | 0.39 |
-| 10 | 0.62 |
-| 12 | 0.89 |
-| 14 | 1.21 |
-| 16 | 1.58 |
-| 20 | 2.47 |
-| 25 | 3.85 |
+| 6 | 0.2 |
+| 8 | 0.4 |
+| 10 | 0.6 |
+| 12 | 0.9 |
+| 14 | 1.2 |
+| 16 | 1.6 |
+| 20 | 2.5 |
+| 25 | 3.9 |
 {: .product-table}
 
 ### Rond HLE (Haute Limite Élastique)
 
-| Diamètre nominal (mm) | Diamètre réel (mm) | Poids (kg/m) |
-|-----------------------|-------------------|--------------|
-| 6 | 6 | 0.22 |
-| 8 | 8 | 0.39 |
-| 10 | 10 | 0.62 |
-| 12 | 12 | 0.89 |
-| 14 | 14 | 1.21 |
-| 16 | 16 | 1.58 |
-| 20 | 20 | 2.47 |
-| 25 | 25 | 3.85 |
+| Diamètre nominal (mm) | Poids (kg/m) |
+|-----------------------|--------------|
+| 6 | 0.2 |
+| 8 | 0.4 |
+| 10 | 0.6 |
+| 12 | 0.9 |
+| 14 | 1.2 |
+| 16 | 1.6 |
+| 20 | 2.5 |
+| 25 | 3.9 |
 {: .product-table}
 
 ---
@@ -352,8 +370,8 @@ Découvrez notre gamme complète de produits sidérurgiques. Plus de **2000 tonn
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|
 | | **1.5** | **2** | **2.5** | **3** | **4** | **5** | **6** | **8** |
 | **1000 x 2000** | 24 | 32 | 40 | 48 | 64 | 80 | 96 | 128 |
-| **1250 x 2500** | 37 | 50 | 63 | 75 | 100 | 125 | 150 | 200 |
-| **1500 x 3000** | 54 | 72 | 90 | 108 | 145 | 180 | 216 | 290 |
+| **1250 x 2500** | 38 | 50 | 63 | 75 | 100 | 125 | 150 | 200 |
+| **1500 x 3000** | 54 | 72 | 90 | 108 | 144 | 180 | 216 | 288 |
 | **2000 x 4000** | - | - | - | 192 | 256 | 320 | 384 | 512 |
 | **2000 x 6000** | - | - | - | 288 | 384 | 480 | 576 | 768 |
 {: .product-table}

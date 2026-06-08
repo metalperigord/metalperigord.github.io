@@ -701,6 +701,17 @@ img {
   font-weight: 600;
   flex: 0 0 200px;
   white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+
+  .cat-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
 
   &:hover {
     background: $primary-red;
